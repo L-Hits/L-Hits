@@ -2,6 +2,9 @@
 
 [![Github Badge](https://img.shields.io/badge/-L--Hits-grey?style=flat&logo=github&logoColor=white&link=https://github.com/L-Hits/)](https://github.com/L-Hits/) 
 [![Gmail Badge](https://img.shields.io/badge/-leechan753@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leechan753@gmail.com)](mailto:leechan753@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/-dlcks2001@naver.com-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:dlcks2001@naver.com)](mailto:dlcks2001@naver.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-Hits%230328-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/)
+
 [![wakatime](https://wakatime.com/badge/user/4d52d940-efc7-4eda-bca8-afb77a6dfa02.svg)](https://wakatime.com/@4d52d940-efc7-4eda-bca8-afb77a6dfa02)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l-hits&label=Profile%20views&color=0e75b6&style=flat" alt="l-hits" /> </p>
 
