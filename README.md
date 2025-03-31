@@ -7,7 +7,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Hits&layout=compact)
 
 
 ![L-Hits GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Hits&show_icons=true&theme=algolia)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=i89oi89o)](https://solved.ac/i89oi89o)
