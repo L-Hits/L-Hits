@@ -5,7 +5,7 @@
 [![Naver Badge](https://img.shields.io/badge/-dlcks2001@naver.com-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:dlcks2001@naver.com)](mailto:dlcks2001@naver.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-Hits%230328-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l-hits&label=Profile%20views&color=0e75b6&style=flat" alt="l-hits" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=L-Hits&label=Profile%20views&color=0e75b6&style=flat" alt="L-Hits" /> </p>
 
 ## 🛠️ Github Stats
 <p>
