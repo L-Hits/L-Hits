@@ -1,11 +1,10 @@
-## :wolf: 코딩하는 허스키 히츠입니다! 👋
+## :wolf: Hello, I'm HITS, the upbeat coding Husky from Korea! 👋
 
 [![Github Badge](https://img.shields.io/badge/-L--Hits-grey?style=flat&logo=github&logoColor=white&link=https://github.com/L-Hits/)](https://github.com/L-Hits/) 
 [![Gmail Badge](https://img.shields.io/badge/-leechan753@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leechan753@gmail.com)](mailto:leechan753@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/-dlcks2001@naver.com-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:dlcks2001@naver.com)](mailto:dlcks2001@naver.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-Hits%230328-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/)
 
-[![wakatime](https://wakatime.com/badge/user/4d52d940-efc7-4eda-bca8-afb77a6dfa02.svg)](https://wakatime.com/@4d52d940-efc7-4eda-bca8-afb77a6dfa02)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l-hits&label=Profile%20views&color=0e75b6&style=flat" alt="l-hits" /> </p>
 
 ## 🛠️ Github Stats
@@ -74,24 +73,56 @@
 ![Validation](https://img.shields.io/badge/Input-Validation-03a9f4?style=flat)
 ![Password Hashing](https://img.shields.io/badge/Password-Hashing-cddc39?style=flat)
 
+<details>
+<summary>🔒 Click to see Security / Best Practices </summary>
+<br>
+
 - **CSRF**  
-  `csurf` 미들웨어를 사용해 CSRF 토큰을 발급하고 검증하며, 요청 위조 공격을 방어.
+  Utilizes the `csurf` middleware to generate and verify CSRF tokens, effectively preventing cross-site request forgery attacks.
 - **XSS**  
-  `sanitize-html`, `he` 등을 통해 HTML을 필터링하거나 특수문자를 인코딩해 XSS 공격 예방.
+  Implements HTML filtering and special character encoding using libraries like `sanitize-html` and `he` to prevent cross-site scripting attacks.
 - **SQL Injection**  
-  `MariaDB`/`MySQL` 쿼리에 파라미터 바인딩, `validator` 라이브러리로 입력값 검증 등으로 SQL 인젝션 대응.
+  Employs parameter binding in `MariaDB`/`MySQL` queries and uses the `validator` library for input validation to mitigate SQL injection risks.
 - **JWT Auth**  
-  `jsonwebtoken`과 `authenticateToken` 함수를 사용하여 Access Token 검증 및 사용자 인증 수행.
+  Uses `jsonwebtoken` along with the `authenticateToken` function to validate Access Tokens and authenticate users securely.
 - **Rate Limiting**  
-  `express-rate-limit`으로 요청 횟수를 제한하여 DoS(서비스 거부) 공격 방어.
+  Applies `express-rate-limit` to restrict the frequency of incoming requests, protecting against DoS (Denial-of-Service) attacks.
 - **Validation**  
-  `validator` 라이브러리로 입력값 유효성 검사(이메일, 숫자, 문자열 등) 수행.
+  Leverages the `validator` library to ensure proper input validation (e.g., for emails, numbers, strings).
 - **Password Hashing**  
-  `bcrypt` 라이브러리로 비밀번호를 해싱해 안전하게 저장.
+  Utilizes `bcrypt` to hash passwords, ensuring they are stored securely.
 - **Role-based Access Control**  
-  `authorizeAdmin` 미들웨어로 사용자 권한(관리자/슈퍼관리자 등)을 판별해 접근 제한.
+  Uses the `authorizeAdmin` middleware to enforce access restrictions based on user roles (e.g., admin or superadmin).
+- **Others**  
+  Additional measures include configuring CORS with `cors`, safeguarding sensitive information with `dotenv`, and parsing cookies using `cookie-parser`.
+
+<details>
+<summary>🔒 한국어 설명 보기</summary>
+<br>
+
+- **CSRF**  
+  `csurf` 미들웨어를 사용해 CSRF 토큰을 발급하고 검증하며, 요청 위조 공격을 방어합니다.
+- **XSS**  
+  `sanitize-html`, `he` 등의 라이브러리를 활용해 HTML을 필터링하거나 특수문자를 인코딩해 XSS 공격을 예방합니다.
+- **SQL Injection**  
+  `MariaDB`/`MySQL` 쿼리에서 파라미터 바인딩을 적용하고, `validator` 라이브러리로 입력값을 검증하여 SQL 인젝션을 방어합니다.
+- **JWT Auth**  
+  `jsonwebtoken`과 `authenticateToken` 함수를 사용해 Access Token을 검증하고, 사용자 인증을 안전하게 수행합니다.
+- **Rate Limiting**  
+  `express-rate-limit`을 이용해 요청 횟수를 제한, DoS(서비스 거부) 공격을 방어합니다.
+- **Validation**  
+  `validator` 라이브러리로 이메일, 숫자, 문자열 등의 입력값 유효성을 검사합니다.
+- **Password Hashing**  
+  `bcrypt` 라이브러리를 사용해 비밀번호를 해싱하여 안전하게 저장합니다.
+- **Role-based Access Control**  
+  `authorizeAdmin` 미들웨어를 통해 관리자(또는 슈퍼관리자) 권한을 확인하고 접근을 제한합니다.
 - **기타**  
-  `cors`로 교차 출처 자원 공유(CORS) 설정, `dotenv`로 민감 정보 보호, `cookie-parser`로 쿠키 파싱 등.
+  `cors`로 CORS를 설정하고, `dotenv`로 민감 정보를 보호하며, `cookie-parser`로 쿠키를 파싱하는 등의 추가적인 보안 조치를 취하고 있습니다.
+
+</details>
+
+</details>
+
 
 
 
