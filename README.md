@@ -1,4 +1,4 @@
-## :wolf: Hello, I'm HITS, the upbeat coding Husky from Korea! 👋
+## :wolf: Hello, I'm Hits, the upbeat coding Husky from Korea! 👋
 
 [![Github Badge](https://img.shields.io/badge/-L--Hits-grey?style=flat&logo=github&logoColor=white&link=https://github.com/L-Hits/)](https://github.com/L-Hits/) 
 [![Gmail Badge](https://img.shields.io/badge/-leechan753@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leechan753@gmail.com)](mailto:leechan753@gmail.com)
