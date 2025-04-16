@@ -62,7 +62,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-%230052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-%230052CC.svg?style=flat&logo=GitKraken&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-%23179287.svg?style=flat&logo=GitKraken&logoColor=white)
 
 ### 🔒 Security / Best Practices
 
