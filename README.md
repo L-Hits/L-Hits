@@ -15,14 +15,11 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Hits&layout=compact&bg_color=30,333b52,4c5568&title_color=fff&text_color=fff">
 </p>
 
+<!--
 ## 🎖️ Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=i89oi89o)](https://solved.ac/i89oi89o)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=i89oi89o&theme=cold)
 
-<!--
-## 💬 About me
-- 🌱 I’m 25seoul student
-- ❤️ I love to code and read
 -->
 
 ## 🛠 Tech Stack
