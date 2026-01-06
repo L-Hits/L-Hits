@@ -61,69 +61,6 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-%230052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-%23179287.svg?style=flat&logo=GitKraken&logoColor=white)
 
-### 🔒 Security / Best Practices
-
-![CSRF](https://img.shields.io/badge/CSRF-Protection-blue?style=flat)
-![XSS](https://img.shields.io/badge/XSS-Prevention-yellow?style=flat)
-![SQL Injection](https://img.shields.io/badge/SQL_Injection-Prevention-orange?style=flat)
-![JWT Auth](https://img.shields.io/badge/JWT-Authentication-4caf50?style=flat)
-![Rate Limit](https://img.shields.io/badge/DoS-Mitigation-9c27b0?style=flat)
-![Validation](https://img.shields.io/badge/Input-Validation-03a9f4?style=flat)
-![Password Hashing](https://img.shields.io/badge/Password-Hashing-cddc39?style=flat)
-
-<details>
-<summary>🔒 Click to see Security / Best Practices </summary>
-<br>
-
-- **CSRF**  
-  Utilizes the `csurf` middleware to generate and verify CSRF tokens, effectively preventing cross-site request forgery attacks.
-- **XSS**  
-  Implements HTML filtering and special character encoding using libraries like `sanitize-html` and `he` to prevent cross-site scripting attacks.
-- **SQL Injection**  
-  Employs parameter binding in `MariaDB`/`MySQL` queries and uses the `validator` library for input validation to mitigate SQL injection risks.
-- **JWT Auth**  
-  Uses `jsonwebtoken` along with the `authenticateToken` function to validate Access Tokens and authenticate users securely.
-- **Rate Limiting**  
-  Applies `express-rate-limit` to restrict the frequency of incoming requests, protecting against DoS (Denial-of-Service) attacks.
-- **Validation**  
-  Leverages the `validator` library to ensure proper input validation (e.g., for emails, numbers, strings).
-- **Password Hashing**  
-  Utilizes `bcrypt` to hash passwords, ensuring they are stored securely.
-- **Role-based Access Control**  
-  Uses the `authorizeAdmin` middleware to enforce access restrictions based on user roles (e.g., admin or superadmin).
-- **Others**  
-  Additional measures include configuring CORS with `cors`, safeguarding sensitive information with `dotenv`, and parsing cookies using `cookie-parser`.
-
-<details>
-<summary>🔒 한국어 설명 보기</summary>
-<br>
-
-- **CSRF**  
-  `csurf` 미들웨어를 사용해 CSRF 토큰을 발급하고 검증하며, 요청 위조 공격을 방어합니다.
-- **XSS**  
-  `sanitize-html`, `he` 등의 라이브러리를 활용해 HTML을 필터링하거나 특수문자를 인코딩해 XSS 공격을 예방합니다.
-- **SQL Injection**  
-  `MariaDB`/`MySQL` 쿼리에서 파라미터 바인딩을 적용하고, `validator` 라이브러리로 입력값을 검증하여 SQL 인젝션을 방어합니다.
-- **JWT Auth**  
-  `jsonwebtoken`과 `authenticateToken` 함수를 사용해 Access Token을 검증하고, 사용자 인증을 안전하게 수행합니다.
-- **Rate Limiting**  
-  `express-rate-limit`을 이용해 요청 횟수를 제한, DoS(서비스 거부) 공격을 방어합니다.
-- **Validation**  
-  `validator` 라이브러리로 이메일, 숫자, 문자열 등의 입력값 유효성을 검사합니다.
-- **Password Hashing**  
-  `bcrypt` 라이브러리를 사용해 비밀번호를 해싱하여 안전하게 저장합니다.
-- **Role-based Access Control**  
-  `authorizeAdmin` 미들웨어를 통해 관리자(또는 슈퍼관리자) 권한을 확인하고 접근을 제한합니다.
-- **기타**  
-  `cors`로 CORS를 설정하고, `dotenv`로 민감 정보를 보호하며, `cookie-parser`로 쿠키를 파싱하는 등의 추가적인 보안 조치를 취하고 있습니다.
-
-</details>
-
-</details>
-
-
-
-
 
 
 
