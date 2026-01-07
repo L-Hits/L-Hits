@@ -7,6 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=L-Hits&label=Profile%20views&color=0e75b6&style=flat" alt="L-Hits" /> </p>
 
+<!--
 ## 🛠️ Github Stats
 <p>
   <img height="180em"
@@ -15,7 +16,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Hits&layout=compact&bg_color=30,333b52,4c5568&title_color=fff&text_color=fff">
 </p>
 
-<!--
+
 ## 🎖️ Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=i89oi89o)](https://solved.ac/i89oi89o)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=i89oi89o&theme=cold)
